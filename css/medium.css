@@ -1,0 +1,56 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017; 
+}
+
+.border-buttom-dark {
+
+    border-bottom: 1px solid rgb(41, 41, 41, 1);
+}
+
+.get-started {
+    border-radius: 99em;
+    border-color: rgba(25, 25, 25, 1);
+    border-width: 1px;
+    background: rgba(25, 25, 25, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.h1{
+    font-weight: 400;
+    font-size: 85px;
+    color: rgba(8, 8, 8, 1); 
+}
+.p1{
+    font-weight: 400;
+    color: rgba(41, 41, 41, 1);
+    font-size: 24px;
+    line-height: 24px;
+    
+}
+
+.button {
+    border-radius: 99em;
+    border-width: 1px;
+    border-color: rgba(25, 25, 25, 1);
+    background: rgba(25, 25, 25, 1);
+    width: 213px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    line-height: 24px;
+    font-size: 20px; 
+}
+.haber{
+    font-family: 'Tilt Warp', cursive;
+    color: black;
+    font-size: medium;  
+}
+
+
+
+
+
